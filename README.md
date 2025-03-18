@@ -32,6 +32,8 @@
 <br/>
 <br/>
 
+<img src="https://raw.githubusercontent.com/lu-lui/lu-lui/output/snake.svg" alt="Snake animation" />
+
 ---
 ### 📊 Estatísticas
 
