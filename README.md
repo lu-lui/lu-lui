@@ -1,6 +1,6 @@
 # 👩‍💻 Luísa
 
-**`Estudante de Programação`**
+**`Estudante de Ciência da Computação`**
 
 ---
 ### 🤖 Linguagens e Tecnologias
