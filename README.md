@@ -59,13 +59,6 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu-lui&theme=radical&layout=compact&custom_title=Tecnologias&include_all_commits=true&langs_count=9" 
   />
 
